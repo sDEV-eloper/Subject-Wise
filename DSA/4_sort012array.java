@@ -1,7 +1,6 @@
 //Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo
 
 package com.DSA;
-import org.w3c.dom.ls.LSOutput;
 
 import java.util.Arrays;
 
